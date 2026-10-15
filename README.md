@@ -1,8 +1,9 @@
 # CMNTY DEPLOY
 
 
-> **CATATAN PENTING! BACA INI**  
-> Website ini **TIDAK BERFUNGSI DI VERCEL** karena menggunakan database lokal berbasis file JSON. Vercel tidak dapat menyimpan/mengedit file database JSON secara persisten.  
+> **(CATATAN PENTING! BACA INI!)**
+>   
+> Website ini **TIDAK BERFUNGSI 95% DI VERCEL** karena menggunakan database lokal berbasis file JSON. Vercel tidak dapat menyimpan/mengedit file database JSON secara persisten.  
 > Jika ingin berfungsi di Vercel, ubah database ke **Firebase** atau hosting ke platform lain yang mendukung database JSON (seperti **Railway**, **Render**, **Koyeb**, atau **VPS**).
 
 ---
