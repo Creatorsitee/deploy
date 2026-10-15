@@ -18,13 +18,13 @@
 Cara tercepat untuk menggunakannya secara privat di PaaS yang tersedia.
 
 <a href="https://vercel.com/new/clone?repository-url=https://github.com%2FCreatorsitee%2Fdeploy%2Ftree%2Fmain">
-  <img alt="Deploy with Vercel" src="https://vercel.com/button" height="32" />
+  <img alt="Deploy To Vercel" src="https://vercel.com/button" height="32" />
 </a>
 <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/Creatorsitee/deploy=main&name=deploy">
-  <img alt="Deploy with Koyeb" src="https://www.koyeb.com/static/images/deploy/button.svg" height="32" />
+  <img alt="Deploy To Koyeb" src="https://www.koyeb.com/static/images/deploy/button.svg" height="32" />
 </a>
 <a href="https://render.com/deploy">
-  <img alt="Deploy with Render" src="https://render.com/images/deploy-to-render-button.svg" height="32" />
+  <img alt="Deploy To Render" src="https://render.com/images/deploy-to-render-button.svg" height="32" />
 </a>
 
 ### Open in
