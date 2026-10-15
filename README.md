@@ -14,6 +14,35 @@
 </p>
 
 ---
+### One-click Deployment
+Cara tercepat untuk menggunakannya secara privat di PaaS yang tersedia.
+
+<a href="https://vercel.com/new/clone?repository-url=https://github.com%2FCreatorsitee%2Fdeploy%2Ftree%2Fmain">
+  <img alt="Deploy with Vercel" src="https://vercel.com/button" height="32" />
+</a>
+<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/Creatorsitee/deploy=main&name=deploy">
+  <img alt="Deploy with Koyeb" src="https://www.koyeb.com/static/images/deploy/button.svg" height="32" />
+</a>
+<a href="https://render.com/deploy">
+  <img alt="Deploy with Render" src="https://render.com/images/deploy-to-render-button.svg" height="32" />
+</a>
+
+### Open in
+
+<a href="https://idx.google.com/import?url=https://github.com/Creatorsitee/deploy">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.idx.dev/btn/open_light_32.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.idx.dev/btn/open_dark_32.svg">
+    <img height="32" alt="Open in IDX" src="https://cdn.idx.dev/btn/open_purple_32.svg">
+  </picture>
+</a>
+<a href="https://gitpod.io/#https://github.com/Creatorsitee/deploy">
+  <img alt="Open in Gitpod" src="https://gitpod.io/button/open-in-gitpod.svg" height="32" />
+</a>
+<a href="https://codespaces.new/Creatorsitee/deploy">
+  <img alt="Open in GitHub Codespaces" src="https://github.com/codespaces/badge.svg" height="32" />
+</a>
+
 
 ## Daftar Isi
 
