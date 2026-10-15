@@ -1,5 +1,10 @@
 # CMNTY Deploy — Cloud Edge Deployment Platform
 
+> **CATATAN PENTING! BACA INI**  
+> Website ini **TIDAK BERFUNGSI DI VERCEL** karena menggunakan database lokal berbasis file JSON. Vercel tidak dapat menyimpan/mengedit file database JSON secara persisten.  
+> Jika ingin berfungsi di Vercel, ubah database ke **Firebase** atau hosting ke platform lain yang mendukung database JSON (seperti **Railway**, **Render**, **Koyeb**, atau **VPS**).
+
+---
 <p align="center">
   <strong>Platform Deployment Web Real-Time Berkinerja Tinggi dengan Routing Edge Otomatis.</strong><br>
   Deploy berkas HTML atau arsip ZIP proyek web statis secara instan dengan subdomain otomatis (*.cmnty.biz.id), sertifikat SSL otomatis, dan deteksi variabel lingkungan real-time.
@@ -17,6 +22,9 @@
 ### One-click Deployment
 Cara tercepat untuk menggunakannya secara privat di PaaS yang tersedia.
 
+<a href="https://railway.app/new/github">
+    <img alt="Deploy To Railway" src="https://railway.app/button.svg" height="32" />
+  </a>
 <a href="https://vercel.com/new/clone?repository-url=https://github.com%2FCreatorsitee%2Fdeploy%2Ftree%2Fmain">
   <img alt="Deploy To Vercel" src="https://vercel.com/button" height="32" />
 </a>
