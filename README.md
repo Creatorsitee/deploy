@@ -1,4 +1,5 @@
-# CMNTY Deploy — Cloud Edge Deployment Platform
+# CMNTY DEPLOY
+
 
 > **CATATAN PENTING! BACA INI**  
 > Website ini **TIDAK BERFUNGSI DI VERCEL** karena menggunakan database lokal berbasis file JSON. Vercel tidak dapat menyimpan/mengedit file database JSON secara persisten.  
