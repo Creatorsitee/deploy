@@ -1,0 +1,8 @@
+{
+  "name": "Remix CMNTY Hosting",
+  "description": "Free hosting and simple deployment platform powered by Vercel API with automated custom subdomains and SSL certificates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

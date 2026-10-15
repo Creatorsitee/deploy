@@ -1,0 +1,19 @@
+{
+  "users": [],
+  "projects": [],
+  "deployments": [],
+  "domains": [],
+  "environmentVariables": [],
+  "auditLogs": [],
+  "systemConfig": {
+    "vercelToken": "",
+    "vercelTeamId": "",
+    "baseDomain": "cmnty.biz.id",
+    "availableDomains": [
+      "cmnty.biz.id"
+    ],
+    "allowPublicRegistration": true,
+    "maxProjectsPerUser": 3,
+    "maxDeploymentsPerDay": 50
+  }
+}
